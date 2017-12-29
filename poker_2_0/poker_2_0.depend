@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514558512 source:f:\mega\ufrpe\paradigmas\poker_2_0\main.c
+	<stdio.h>
+	<stdlib.h>
+
